@@ -20,8 +20,4 @@
 - project-name — PyTorchベースの量子化実験と評価（リンク）
 - firmware-name — マイコン向け最適化ファームウェア（リンク）
 
-## 📫 連絡
-- Email: your-email@example.com
-- Twitter / LinkedIn: @yourhandle
-
 このリポジトリには実験ノート、ベンチマーク、再現手順を順次追加していきます。ご興味ある方はぜひコラボレーションやディスカッションをお願いします。
