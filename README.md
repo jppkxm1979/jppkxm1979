@@ -1,16 +1,27 @@
-## Hi there 👋
+# こんにちは、jppkxm1979 です
 
-<!--
-**jppkxm1979/jppkxm1979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+シニア開発者で、長年にわたり組み込みシステムとC言語によるファームウェア開発に従事してきました。最近は PyTorch を中心とした AI 開発に関心を持ち、モデル設計・量子化・ハードウェア最適化を通じて制約あるデバイス上で実用的に動作する AI を目指して活動しています。
 
-Here are some ideas to get you started:
+## 🔧 経歴と背景
+- 職種: シニア開発者（組み込み／ファームウェア）
+- 主要経験: C言語、アセンブリ、マイクロコントローラ向け最適化
+- これまでの強み: ハードウェア上での性能最適化、低レイテンシ・低消費電力設計
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 現在の関心
+- PyTorch を用いたモデル設計と実験
+- モデル量子化（Post-training / Quantization-aware training）
+- 組み込みデバイス向けのデプロイとパフォーマンス最適化
+
+## 🛠 技術スタック
+- 言語: C (組み込み), Python (PyTorch), アセンブリ（必要に応じて）
+- 分野: 組み込み開発、AI モデル最適化、量子化、ファームウェア最適化
+
+## 📂 主なプロジェクト（例）
+- project-name — PyTorchベースの量子化実験と評価（リンク）
+- firmware-name — マイコン向け最適化ファームウェア（リンク）
+
+## 📫 連絡
+- Email: your-email@example.com
+- Twitter / LinkedIn: @yourhandle
+
+このリポジトリには実験ノート、ベンチマーク、再現手順を順次追加していきます。ご興味ある方はぜひコラボレーションやディスカッションをお願いします。
